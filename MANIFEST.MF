@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: com.toff_monaka.java_base.main.Main
