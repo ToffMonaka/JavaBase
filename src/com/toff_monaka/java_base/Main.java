@@ -13,8 +13,8 @@ import java.io.*;
 /**
  * @brief Mainクラス
  */
-
-public class Main {
+public class Main
+{
 	/**
 	 * @brief main関数
 	 * @param app_param_ary(application_parameter_array)
