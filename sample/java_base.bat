@@ -1,7 +1,7 @@
-@echo Java JavaBase: 開始
+@echo JavaBase: 開始
 
 java -Xms256M -Xmx256M -jar ..\bin\JavaBase.jar
 
-@echo Java JavaBase: 終了
+@echo JavaBase: 終了
 
 pause
