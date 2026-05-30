@@ -38,7 +38,7 @@ public class Util
      */
     public static void setDebugFlag(Boolean debug_flg)
     {
-        System.out.println("Warning: com.toff_monaka.excel_to_csv.Util.SetDebugFlag: " + debug_flg);
+        System.out.println("Warning: com.toff_monaka.java_base.Util.SetDebugFlag: " + debug_flg);
 
         Util._debugFlag = debug_flg;
 
