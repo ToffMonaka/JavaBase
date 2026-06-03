@@ -1,18 +1,18 @@
 /**
  * @file
- * @brief DataUtilファイル
+ * @brief FileUtilファイル
  */
 
-package com.toff_monaka.tml.data;
+package com.toff_monaka.tml;
 
 import java.io.File;
 
 /**
- * @brief DataUtilクラス
+ * @brief FileUtilクラス
  */
-public class DataUtil
+public class FileUtil
 {
-	private DataUtil(){}
+	private FileUtil(){}
 
 	/**
 	 * getFileNameArray関数
